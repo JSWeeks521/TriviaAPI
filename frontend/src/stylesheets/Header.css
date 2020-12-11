@@ -1,0 +1,9 @@
+.App-header h1,
+.App-header h2,
+.categories-list ul li,
+.play-category,
+.button,
+.delete,
+.page-num {
+  cursor: pointer;
+}
